@@ -1,4 +1,4 @@
-# Express API Starter
+# Phincon Pokemon Server Express API Starter
 
 How to use this template:
 
